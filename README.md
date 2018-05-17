@@ -9,7 +9,6 @@ Farmnote Breed  | [Android](https://play.google.com/store/apps/details?id=com.fa
 Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter.app), [iOS](https://itunes.apple.com/jp/app/id387151129) | https://togetter.com/
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 MY BODY MAKE | [Android](https://play.google.com/store/apps/details?id=com.mybodymake), [iOS](https://itunes.apple.com/jp/app/id1268497616?mt=8) | https://mybodymake.jp/
-Remotty | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
-MY BODY MAKE | [Android](https://play.google.com/store/apps/details?id=net.remotty.android), [iOS](https://itunes.apple.com/jp/app/remotty/id979526900) | https://www.remotty.net/
+Remotty | [Android](https://play.google.com/store/apps/details?id=net.remotty.android), [iOS](https://itunes.apple.com/jp/app/remotty/id979526900) | https://www.remotty.net/
 
 

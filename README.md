@@ -10,4 +10,4 @@ Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 MY BODY MAKE | [Android](https://play.google.com/store/apps/details?id=com.mybodymake), [iOS](https://itunes.apple.com/jp/app/id1268497616?mt=8) | https://mybodymake.jp/
 TeamHub | [Android](https://play.google.com/store/apps/details?id=com.teamhub), [iOS](https://itunes.apple.com/jp/app/id991617530?mt=8) | https://tmhub.jp/
-
+pickss | [Android](https://play.google.com/store/apps/details?id=jp.pickss) ,[iOS](https://itunes.apple.com/jp/app/id1272045869?mt=8) | https://www.pickss.jp/

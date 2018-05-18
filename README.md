@@ -14,3 +14,6 @@ Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 AgrionChat | [Android](https://play.google.com/store/apps/details?id=jp.co.trexedge.agrion.chat), [iOS](https://itunes.apple.com/jp/app/agrionchat-%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id1367854005) | https://www.agri-on.com/family-app/agrionchat
 GLIT | [iOS](http://appstore.com/glit) | https://glit.io
+SuimonGo | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.suimon), [iOS](https://itunes.apple.com/jp/app/suimon/id1229038427) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
+面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
+距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448

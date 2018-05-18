@@ -25,3 +25,4 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 QQMAP | [iOS](https://itunes.apple.com/us/app/qqmap/id1254388098?l=ja&ls=1&mt=8) | https://www.qqzaidanmap.jp/static_contents/about
 StudySapuri | [Android](https://play.google.com/store/apps/details?id=jp.studysapuri.android), [iOS](https://itunes.apple.com/jp/app/%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%82%B5%E3%83%97%E3%83%AA-%E9%AB%98%E6%A0%A1%E8%AC%9B%E5%BA%A7-%E5%A4%A7%E5%AD%A6%E5%8F%97%E9%A8%93%E8%AC%9B%E5%BA%A7/id1059640427?mt=8) | https://studysapuri.jp
 audiobook.jp | [Android](https://play.google.com/store/apps/details?id=jp.audiobook.app&hl=ja), [iOS](https://itunes.apple.com/jp/app/id1357581573) | https://audiobook.jp
+curon | [Android](https://play.google.com/store/apps/details?id=curon.micin.jp), [iOS](https://itunes.apple.com/jp/app/id1101684249) | https://curon.co

@@ -19,5 +19,5 @@ Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
-だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), | [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
+だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
 QQMAP | [iOS](https://itunes.apple.com/us/app/qqmap/id1254388098?l=ja&ls=1&mt=8) | https://www.qqzaidanmap.jp/static_contents/about

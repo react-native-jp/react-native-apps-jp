@@ -22,6 +22,7 @@ StudySapuri | [Android](https://play.google.com/store/apps/details?id=jp.studysa
 SuimonGo | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.suimon), [iOS](https://itunes.apple.com/jp/app/suimon/id1229038427) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 TeamHub | [Android](https://play.google.com/store/apps/details?id=com.teamhub), [iOS](https://itunes.apple.com/jp/app/id991617530?mt=8) | https://tmhub.jp/
 Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter.app), [iOS](https://itunes.apple.com/jp/app/id387151129) | https://togetter.com/
+UPTOON!  | [Android](https://play.google.com/store/apps/details?id=jp.inc.nagisa.uptoon) | https://uptoon.jp/
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
 セット生成 for ドミニオン | [Android](https://play.google.com/store/apps/details?id=com.nonchalant.dominion), [iOS](https://itunes.apple.com/jp/app/%E3%82%BB%E3%83%83%E3%83%88%E7%94%9F%E6%88%90-for-%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3/id814543461?mt=8) | https://github.com/Nonchalant

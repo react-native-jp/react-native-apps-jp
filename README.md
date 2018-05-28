@@ -30,3 +30,4 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
 InfrA | [iOS](https://itunes.apple.com/jp/app/id1359585558) | https://www.in-fra.jp
+ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/

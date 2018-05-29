@@ -10,6 +10,7 @@ audiobook.jp | [Android](https://play.google.com/store/apps/details?id=jp.audiob
 curon | [Android](https://play.google.com/store/apps/details?id=curon.micin.jp), [iOS](https://itunes.apple.com/jp/app/id1101684249) | https://curon.co
 Farmnote Breed  | [Android](https://play.google.com/store/apps/details?id=com.farmnotebreed), [iOS](https://itunes.apple.com/jp/app/id1249219828) | https://farmnote.jp/information/12132017-winter.html
 GLIT | [iOS](http://appstore.com/glit) | https://glit.io
+InfrA | [iOS](https://itunes.apple.com/jp/app/id1359585558) | https://www.in-fra.jp
 KitchHike | [Android](https://play.google.com/store/apps/details?id=com.kitchhike.app), [iOS](https://itunes.apple.com/app/id1254338458) | https://kitchhike.com/
 Lancers | [iOS](https://itunes.apple.com/us/app/lancers/id1331949158?l=ja&ls=1&mt=8) | https://www.lancers.jp/
 MY BODY MAKE | [Android](https://play.google.com/store/apps/details?id=com.mybodymake), [iOS](https://itunes.apple.com/jp/app/id1268497616?mt=8) | https://mybodymake.jp/
@@ -24,11 +25,10 @@ TeamHub | [Android](https://play.google.com/store/apps/details?id=com.teamhub), 
 Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter.app), [iOS](https://itunes.apple.com/jp/app/id387151129) | https://togetter.com/
 UPTOON!  | [Android](https://play.google.com/store/apps/details?id=jp.inc.nagisa.uptoon) | https://uptoon.jp/
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
+いきなりデート | [Android](https://play.google.com/store/apps/details?id=com.ikinaridate), [iOS](https://itunes.apple.com/jp/app/%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%83%87%E3%83%BC%E3%83%88/id1273579885?mt=8) | https://ikinaridate.com/
+うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
 だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
 セット生成 for ドミニオン | [Android](https://play.google.com/store/apps/details?id=com.nonchalant.dominion), [iOS](https://itunes.apple.com/jp/app/%E3%82%BB%E3%83%83%E3%83%88%E7%94%9F%E6%88%90-for-%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3/id814543461?mt=8) | https://github.com/Nonchalant
+ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/
 距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
-うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
-InfrA | [iOS](https://itunes.apple.com/jp/app/id1359585558) | https://www.in-fra.jp
-いきなりデート | [Android](https://play.google.com/store/apps/details?id=com.ikinaridate), [iOS](https://itunes.apple.com/jp/app/%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%83%87%E3%83%BC%E3%83%88/id1273579885?mt=8) | https://ikinaridate.com/
-ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/

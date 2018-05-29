@@ -31,3 +31,4 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
 InfrA | [iOS](https://itunes.apple.com/jp/app/id1359585558) | https://www.in-fra.jp
 いきなりデート | [Android](https://play.google.com/store/apps/details?id=com.ikinaridate), [iOS](https://itunes.apple.com/jp/app/%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%83%87%E3%83%BC%E3%83%88/id1273579885?mt=8) | https://ikinaridate.com/
+ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/

@@ -5,6 +5,7 @@ App list made with React Native in Japan
 
 name  | platform  | refer
 ------|-----------|--------
+Agetter(あげったー) | [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1372586808&mt=8) | https://agetter.jp/
 AgrionChat | [Android](https://play.google.com/store/apps/details?id=jp.co.trexedge.agrion.chat), [iOS](https://itunes.apple.com/jp/app/agrionchat-%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id1367854005) | https://www.agri-on.com/family-app/agrionchat
 audiobook.jp | [Android](https://play.google.com/store/apps/details?id=jp.audiobook.app&hl=ja), [iOS](https://itunes.apple.com/jp/app/id1357581573) | https://audiobook.jp
 curon | [Android](https://play.google.com/store/apps/details?id=curon.micin.jp), [iOS](https://itunes.apple.com/jp/app/id1101684249) | https://curon.co
@@ -28,11 +29,10 @@ UPTOON!  | [Android](https://play.google.com/store/apps/details?id=jp.inc.nagisa
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
 いきなりデート | [Android](https://play.google.com/store/apps/details?id=com.ikinaridate), [iOS](https://itunes.apple.com/jp/app/%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%83%87%E3%83%BC%E3%83%88/id1273579885?mt=8) | https://ikinaridate.com/
 うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
-クックパッドMYキッチン | [Android](https://play.google.com/store/apps/details?id=com.cookpad.android.kitchen), [iOS](https://itunes.apple.com/jp/app/%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89my%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3/id1349888434) | https://techlife.cookpad.com/entry/2018/04/16/100000
 だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html
+クックパッドMYキッチン | [Android](https://play.google.com/store/apps/details?id=com.cookpad.android.kitchen), [iOS](https://itunes.apple.com/jp/app/%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89my%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3/id1349888434) | https://techlife.cookpad.com/entry/2018/04/16/100000
 セット生成 for ドミニオン | [Android](https://play.google.com/store/apps/details?id=com.nonchalant.dominion), [iOS](https://itunes.apple.com/jp/app/%E3%82%BB%E3%83%83%E3%83%88%E7%94%9F%E6%88%90-for-%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3/id814543461?mt=8) | https://github.com/Nonchalant
+バンドルカード | [Android](https://play.google.com/store/apps/details?id=jp.kanmu.vandle.android), [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1113352415&mt=8) | https://vandle.jp/
 ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/
 距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
-Agetter(あげったー) | [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1372586808&mt=8) | https://agetter.jp/
-バンドルカード | [Android](https://play.google.com/store/apps/details?id=jp.kanmu.vandle.android), [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1113352415&mt=8) | https://vandle.jp/

@@ -27,6 +27,7 @@ TeamHub | [Android](https://play.google.com/store/apps/details?id=com.teamhub), 
 Togetter  | [Android](https://play.google.com/store/apps/details?id=com.togetter.app), [iOS](https://itunes.apple.com/jp/app/id387151129) | https://togetter.com/
 UPTOON!  | [Android](https://play.google.com/store/apps/details?id=jp.inc.nagisa.uptoon) | https://uptoon.jp/
 WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.rn), [iOS](https://itunes.apple.com/app/apple-store/id1181315839?mt=8) | https://corp.wamazing.com
+いいね検索 | [Android](https://play.google.com/store/apps/details?id=jp.ewaf.likedsearch.android), [iOS](https://itunes.apple.com/jp/app/id1404261438?mt=8) | http://www.bad-company.jp/likedsearch
 いきなりデート | [Android](https://play.google.com/store/apps/details?id=com.ikinaridate), [iOS](https://itunes.apple.com/jp/app/%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%83%87%E3%83%BC%E3%83%88/id1273579885?mt=8) | https://ikinaridate.com/
 うたよみん | [Android](https://play.google.com/store/apps/details?id=com.plasticaromantica.utayomin), [iOS](https://itunes.apple.com/jp/app/id675671254) | https://utayom.in/
 だれでもナビ | [Android](https://play.google.com/store/apps/details?id=org.shiawasenomura.app.udnavi), [iOS](https://itunes.apple.com/us/app/だれでもナビ/id1213316151?l=ja&ls=1&mt=8) | http://www.shiawasenomura.org/infolist/daredemonavi.html

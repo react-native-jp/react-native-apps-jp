@@ -36,3 +36,4 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/
 距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
+人狼ゲームマスター | [Android](https://play.google.com/store/apps/details?id=com.kasajei.jinrogm), [iOS](https://itunes.apple.com/jp/app/id1346934646) | https://jinrogm.kasajei.com/

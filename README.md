@@ -35,6 +35,6 @@ WAmazing | [Android](https://play.google.com/store/apps/details?id=jp.wamazing.r
 セット生成 for ドミニオン | [Android](https://play.google.com/store/apps/details?id=com.nonchalant.dominion), [iOS](https://itunes.apple.com/jp/app/%E3%82%BB%E3%83%83%E3%83%88%E7%94%9F%E6%88%90-for-%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AA%E3%83%B3/id814543461?mt=8) | https://github.com/Nonchalant
 バンドルカード | [Android](https://play.google.com/store/apps/details?id=jp.kanmu.vandle.android), [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1113352415&mt=8) | https://vandle.jp/
 ワンキャリア | [Android](https://play.google.com/store/apps/details?id=jp.onecareer.androidapp), [iOS](https://itunes.apple.com/jp/app/id971530839) | https://www.onecareer.jp/
+人狼ゲームマスター | [Android](https://play.google.com/store/apps/details?id=com.kasajei.jinrogm), [iOS](https://itunes.apple.com/jp/app/id1346934646) | https://jinrogm.kasajei.com/
 距離計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.distance), [iOS](https://itunes.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id1236073897) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
 面積計算 | [Android](https://play.google.com/store/apps/details?id=jp.agri_note.area), [iOS](https://itunes.apple.com/jp/app/%E9%9D%A2%E7%A9%8D%E8%A8%88%E7%AE%97/id1234162227) | https://watercelldev.hatenablog.jp/entry/2017/05/16/174448
-人狼ゲームマスター | [Android](https://play.google.com/store/apps/details?id=com.kasajei.jinrogm), [iOS](https://itunes.apple.com/jp/app/id1346934646) | https://jinrogm.kasajei.com/

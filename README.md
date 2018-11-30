@@ -5,6 +5,7 @@ App list made with React Native in Japan
 
 name  | platform  | refer
 ------|-----------|--------
+1D歯科国試 | [iOS](https://itunes.apple.com/jp/app/%E6%AD%AF%E7%A7%91%E5%8C%BB%E5%B8%AB%E5%9B%BD%E5%AE%B6%E8%A9%A6%E9%A8%93%E3%82%A2%E3%83%97%E3%83%AA-onedental/id1130787144?mt=8), [Android](https://play.google.com/store/apps/details?id=jp.onedental&hl=ja) | https://corporate.oned.jp/lp/kokushi/
 1Dニュース(ワンディーニュース) | [iOS](https://itunes.apple.com/jp/app/1d%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E6%AD%AF%E7%A7%91%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%8C%E6%AF%8E%E6%97%A5%E5%B1%8A%E3%81%8F/id1440053450?mt=8), [Android](https://play.google.com/store/apps/details?id=com.oned_news) | https://corporate.oned.jp/lp/news/
 Agetter(あげったー) | [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1372586808&mt=8) | https://agetter.jp/
 AgrionChat | [Android](https://play.google.com/store/apps/details?id=jp.co.trexedge.agrion.chat), [iOS](https://itunes.apple.com/jp/app/agrionchat-%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id1367854005) | https://www.agri-on.com/family-app/agrionchat

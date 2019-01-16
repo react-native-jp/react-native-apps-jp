@@ -10,6 +10,7 @@ name  | platform  | refer
 Agetter(あげったー) | [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1372586808&mt=8) | https://agetter.jp/
 AgrionChat | [Android](https://play.google.com/store/apps/details?id=jp.co.trexedge.agrion.chat), [iOS](https://itunes.apple.com/jp/app/agrionchat-%E3%82%A2%E3%82%B0%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%83%E3%83%88/id1367854005) | https://www.agri-on.com/family-app/agrionchat
 audiobook.jp | [Android](https://play.google.com/store/apps/details?id=jp.audiobook.app&hl=ja), [iOS](https://itunes.apple.com/jp/app/id1357581573) | https://audiobook.jp
+BeatFit | [Android](https://play.google.com/store/apps/details?id=jp.beatfit), [iOS](https://itunes.apple.com/jp/app//id1346631395) | https://www.beatfit.jp/
 【OSS】CodePicks | [Android](https://play.google.com/store/apps/details?id=com.codepicks) | https://github.com/KangYoosam/CodePicks
 curon | [Android](https://play.google.com/store/apps/details?id=curon.micin.jp), [iOS](https://itunes.apple.com/jp/app/id1101684249) | https://curon.co
 Farmnote Breed  | [Android](https://play.google.com/store/apps/details?id=com.farmnotebreed), [iOS](https://itunes.apple.com/jp/app/id1249219828) | https://farmnote.jp/information/12132017-winter.html

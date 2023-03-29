@@ -20,6 +20,7 @@ GLIT | [iOS](http://appstore.com/glit) | https://glit.io
 InfrA | [iOS](https://itunes.apple.com/jp/app/id1359585558) | https://www.in-fra.jp
 KitchHike | [Android](https://play.google.com/store/apps/details?id=com.kitchhike.app), [iOS](https://itunes.apple.com/app/id1254338458) | https://kitchhike.com/
 Lancers | [iOS](https://itunes.apple.com/us/app/lancers/id1331949158?l=ja&ls=1&mt=8) | https://www.lancers.jp/
+menu | [Android](https://play.google.com/store/apps/details?id=co.tapgo.user), [iOS](https://apps.apple.com/JP/app/id1443466646?mt=8) | https://app.menu.jp/
 MY BODY MAKE | [Android](https://play.google.com/store/apps/details?id=com.mybodymake), [iOS](https://itunes.apple.com/jp/app/id1268497616?mt=8) | https://mybodymake.jp/
 PIAZZA | [Android](https://play.google.com/store/apps/details?id=com.piazza_react_native) | https://www.piazza-life.com
 pickss | [Android](https://play.google.com/store/apps/details?id=jp.pickss) ,[iOS](https://itunes.apple.com/jp/app/id1272045869?mt=8) | https://www.pickss.jp/
